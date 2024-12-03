@@ -24,10 +24,10 @@ The **AI Voice Assistant** is a cutting-edge, real-time voice-enabled assistant 
 1. **Clone the repository**:  
    ```bash  
    git clone https://github.com/yourusername/AI-voice-assistant.git  
-   cd AI-voice-assistant```
+   cd AI-voice-assistant
 2. **Install dependencies**:
    ```bash  
-   pip install -r requirements.txt ```
+   pip install -r requirements.txt
 3. **Set up environment variables**:
    - Create a .env file in the project root directory.
    - Add the following keys (replace with your actual API keys):
@@ -37,10 +37,10 @@ The **AI Voice Assistant** is a cutting-edge, real-time voice-enabled assistant 
    LIVEKIT_API_KEY=your_livekit_api_key  
    OPENAI_API_KEY=your_openai_api_key  
    DEEPGRAM_API_KEY=your_deepgram_api_key  
-   ELEVEN_API_KEY=your_eleven_api_key```
+   ELEVEN_API_KEY=your_eleven_api_key
 4. **Run the application**:
    ```bash  
-   python main.py```
+   python main.py
 
 ## 🎯 Usage:
 
