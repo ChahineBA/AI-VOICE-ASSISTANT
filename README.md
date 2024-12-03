@@ -53,10 +53,10 @@ The **AI Voice Assistant** is a cutting-edge, real-time voice-enabled assistant 
 - 🏡 **Smart Home Integration**: Control a variety of IoT devices beyond temperature.
 - 🎨 **Customization**: Allow users to personalize the assistant’s voice and response style.
 
-##🤝 Contributing
+## 🤝 Contributing:
 Contributions are welcome! Fork the repository and submit a pull request with your changes. For major updates, open an issue to discuss your idea first.
 
-##🙌 Acknowledgments
+## 🙌 Acknowledgments:
 
 Special thanks to:
 
