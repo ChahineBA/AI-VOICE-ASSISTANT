@@ -49,9 +49,9 @@ The **AI Voice Assistant** is a cutting-edge, real-time voice-enabled assistant 
 - Supports modular functionalities, such as temperature control, which can be extended or customized.
 
 ## 🔮 Future Enhancements:
-- 🌍 Multi-Language Support: Handle multiple languages for broader accessibility.
-- 🏡 Smart Home Integration: Control a variety of IoT devices beyond temperature.
-- 🎨 Customization: Allow users to personalize the assistant’s voice and response style.
+- 🌍 **Multi-Language Support**: Handle multiple languages for broader accessibility.
+- 🏡 **Smart Home Integration**: Control a variety of IoT devices beyond temperature.
+- 🎨 **Customization**: Allow users to personalize the assistant’s voice and response style.
 
 ##🤝 Contributing
 Contributions are welcome! Fork the repository and submit a pull request with your changes. For major updates, open an issue to discuss your idea first.
@@ -60,9 +60,9 @@ Contributions are welcome! Fork the repository and submit a pull request with yo
 
 Special thanks to:
 
-- LiveKit for their real-time communication platform.
-- Silero for their VAD model.
-- Deepgram for their STT services.
-- OpenAI for the GPT model.
-- ElevenLabs for TTS technology.
+- **LiveKit** for their real-time communication platform.
+- **Silero** for their VAD model.
+- **Deepgram** for their STT services.
+- **OpenAI** for the GPT model.
+- **ElevenLabs** for TTS technology.
 
